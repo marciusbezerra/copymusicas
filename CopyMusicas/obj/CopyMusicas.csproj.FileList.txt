@@ -1,0 +1,5 @@
+bin\Debug\CopyMusicas.exe
+bin\Debug\CopyMusicas.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\CopyMusicas.exe
+obj\Debug\CopyMusicas.pdb
